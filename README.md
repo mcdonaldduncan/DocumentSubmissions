@@ -1,2 +1,2 @@
-# ApplicationDesignPapers
-temp repo for paper submission
+# Document Submissions
+temp repo for doc submission
